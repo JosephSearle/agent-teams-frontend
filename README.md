@@ -134,21 +134,6 @@ Coverage thresholds (enforced in CI): **branches 80 %, functions 80 %, lines 80 
 
 ---
 
-## Roadmap
-
-- [ ] **Phase 0** — Tooling foundation (TypeScript, Tailwind v4, Vitest, Husky)
-- [ ] **Phase 1** — Type system and domain models
-- [ ] **Phase 2** — Atomic UI component library (TDD)
-- [ ] **Phase 3** — Feature panels and message rendering (TDD)
-- [ ] **Phase 4** — Zustand store slices and TanStack Query integration
-- [ ] **Phase 5** — Live LangGraph streaming via `useStream`
-- [ ] **Phase 6** — Polish: accessibility, responsive layout, theming
-- [ ] Thread history browser
-- [ ] Multi-graph comparison view
-- [ ] Exportable decision log (Markdown / JSON)
-
----
-
 ## Contributing
 
 Contributions are welcome. Please read [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) before opening a PR — it covers the branch model, commit format, test requirements, and review checklist.
