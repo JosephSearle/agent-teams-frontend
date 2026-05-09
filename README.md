@@ -13,7 +13,6 @@ A professional, real-time frontend for monitoring and interacting with [LangGrap
 - [Architecture](#architecture)
 - [Development](#development)
 - [Testing](#testing)
-- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
 
