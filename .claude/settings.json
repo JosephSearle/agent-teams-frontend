@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx husky *)",
+      "Bash(npm uninstall *)",
+      "Bash(node -e \"require\\('@tailwindcss/oxide'\\)\")",
+      "Bash(node -e \"const os=require\\('os'\\);console.log\\(os.platform\\(\\),os.arch\\(\\)\\)\")",
+      "Bash(node -e \"const p=require\\('./node_modules/@tailwindcss/oxide/package.json'\\);console.log\\(p.version\\)\")",
+      "Bash(npx vitest *)",
+      "Bash(npx vite *)",
+      "Bash(grep -n \"--text-dim\\\\|--text-muted\" /Users/josephsearle/Documents/Projects/agent-teams-frontend/src/styles/globals.css)",
+      "Bash(git -C /Users/josephsearle/Documents/Projects/agent-teams-frontend diff --stat HEAD)",
+      "Bash(git -C /Users/josephsearle/Documents/Projects/agent-teams-frontend status --short)"
+    ]
+  }
+}
